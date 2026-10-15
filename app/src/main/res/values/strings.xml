@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Mobile App Furniture</string>
+    <string name="product_detail_title">Product Detail ( Defualt)</string>
+    <string name="modern_chair_title">Modern Chair</string>
+    <string name="modern_chair_price">$185</string>
+    <string name="modern_chair_price_cents">.00</string>
+    <string name="rating_text">4.8 ( 2.3k Review)</string>
+    <string name="color_label">Color</string>
+    <string name="tab_overview">Over view</string>
+    <string name="tab_material">Material</string>
+    <string name="tab_review">Review</string>
+    <string name="about_product">About Product</string>
+    <string name="product_description">Simple &amp; elegant shape makes it very suitable for those want a minimalist room.. </string>
+    <string name="read_more">Read More</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="add_to_cart_full">Add to Cart  |  $185</string>
+    <string name="degree_360">360°</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="_3d_view">3D View</string>
+    <string name="rating">Rating</string>
+    <string name="light_color">Light color</string>
+    <string name="decrease_quantity">Decrease quantity</string>
+    <string name="gray_color">Gray color</string>
+    <string name="red_color">Red color</string>
+    <string name="_1">1</string>
+    <string name="increase_quantity">Increase quantity</string>
 </resources>
