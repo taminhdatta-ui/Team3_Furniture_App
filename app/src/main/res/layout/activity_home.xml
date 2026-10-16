@@ -491,7 +491,7 @@
             <ImageView
                 android:layout_width="24dp"
                 android:layout_height="24dp"
-                android:src="@drawable/house_solid"
+                android:src="@drawable/ic_house_solid"
                 app:tint="#1B4D3E" />
 
             <TextView
