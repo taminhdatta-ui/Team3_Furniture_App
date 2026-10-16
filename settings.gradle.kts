@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mobile App Furniture"
+rootProject.name = "DuAnNoiThat"
 include(":app")
- 

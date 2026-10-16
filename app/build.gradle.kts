@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mobileappfurniture"
+    namespace = "com.example.duannoithat"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.mobileappfurniture"
+        applicationId = "com.example.duannoithat"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
